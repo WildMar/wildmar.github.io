@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
 
-#content {
+.main-content {
   background-color: #2C1839;
 }
