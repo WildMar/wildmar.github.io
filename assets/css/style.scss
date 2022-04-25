@@ -7,14 +7,16 @@ body {
   background-color: #2C1839;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.main-content > h1, .main-content > h2,
+.main-content >  h3, .main-content > h4,
+.main-content > h5, .main-content > h6 {
   color: #69FF99;
 }
 
-p {
+.main-content > p {
   color: #8B939C;
 }
 
-a {
+.main-content > a {
   color: #FF1C8A;
 }
