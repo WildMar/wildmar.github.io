@@ -12,3 +12,5 @@ Cargo.lock
 .ruby-version
 
 .idea/
+
+.jekyll-cache/
